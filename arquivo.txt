@@ -1,0 +1,5 @@
+terminal 
+nano nome arquivo
+depois os git add
+commit -m
+push
