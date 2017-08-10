@@ -1,5 +1,5 @@
 terminal 
 nano nome arquivo
-depois os git add
-commit -m
-push
+depois os git add arquivo.txt
+commit -m e a mensagem
+push origin master
